@@ -4,4 +4,6 @@ You can scan multiple targets using this script
 This scanner will scan all the ports in the range mentioned by you
 
 ## How to Use
+To scan a single taget just input IP address.
+To scan multiple targets enter them separated by ,
 python3 portscanner.py [IP],[IP] [number of ports]
